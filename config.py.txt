@@ -1,12 +1,12 @@
 # config.py
 
 # BYBIT
-API_KEY_A = "fPcdhdfengRkB"
-API_SECRET_A = "fgdfgdfgdf"
+API_KEY_A = "fPcdbdbdhdhgRkB"
+API_SECRET_A = "fgdfgddhdhf"
 # COINEX
-API_KEY_B = "cKG0pUgKPjPQGaIfXzw4CCsdgsdgGc3VJlP3CPMgzriCS3zu0kQgus6WY8"
-API_SECRET_B = "ZnSPkn8gssdgJorbmjOGrmMPKoX"
+API_KEY_B = "cKG0pUgKPjbdbejdjjkVJlP3CPMgzriCS3zu0kQgus6WY8"
+API_SECRET_B = "ZnSPkn8gssdhdhdhdhMPKoX"
 
 # TELEGRAM
-TELEGRAM_TOKEN = "77978492972:AAMe0Pjbsgd52R0USig1w3V16Y"
-TELEGRAM_CHAT_ID = "-4962sgsdg0"
+TELEGRAM_TOKEN = "77978492972jdjdjej3V16Y"
+TELEGRAM_CHAT_ID = "-jdjejdg0"
